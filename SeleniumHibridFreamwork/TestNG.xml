@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="InetBanking Test Suite v9">
+    <listeners>
+        <listener class-name="com.inetbanking.utilities.Reporting">
+        </listener>
+    </listeners>
+    <test name="Banking App Sanity Test">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="com.inetbanking.testCases.LoginTest01">
+            </class>
+        </classes>
+    </test> <!-- SeleniumHibridFreamwork -->
+</suite> <!-- Default Suite -->

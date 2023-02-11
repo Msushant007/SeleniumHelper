@@ -1,0 +1,8 @@
+com/inetbanking/pageObjects/LoginPage.class
+com/inetbanking/testCases/LoginTest01.class
+com/inetbanking/utilities/Reporting.class
+com/inetbanking/utilities/ReadConfig.class
+com/inetbanking/pageObjects/AddCustomerPage.class
+com/inetbanking/testCases/LoginTestDDT02.class
+com/inetbanking/utilities/XlsUtil.class
+com/inetbanking/testCases/BaseTest.class

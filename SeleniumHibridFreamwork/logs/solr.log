@@ -1,0 +1,45 @@
+INFO  - 2023-02-02 09:11:00.017; com.inetbanking.testCases.LoginTest01; Naviaget to URL
+INFO  - 2023-02-02 09:11:15.692; com.inetbanking.testCases.LoginTest01; titel: Guru99 Bank Manager HomePage
+INFO  - 2023-02-02 09:14:02.727; com.inetbanking.testCases.LoginTest01; Naviaget to URL
+INFO  - 2023-02-02 09:14:14.558; com.inetbanking.testCases.LoginTest01; titel: Guru99 Bank Manager HomePage
+INFO  - 2023-02-02 10:36:36.866; com.inetbanking.testCases.LoginTest01; Naviaget to URL
+INFO  - 2023-02-02 10:36:57.991; com.inetbanking.testCases.LoginTest01; titel: Guru99 Bank Manager HomePage
+INFO  - 2023-02-02 10:39:50.021; com.inetbanking.testCases.LoginTest01; Naviaget to URL
+INFO  - 2023-02-02 10:40:01.569; com.inetbanking.testCases.LoginTest01; titel: Guru99 Bank Home Page
+INFO  - 2023-02-02 10:44:58.340; com.inetbanking.testCases.BaseTest; Get URL :https://demo.guru99.com/v4/index.php
+INFO  - 2023-02-02 10:44:58.387; com.inetbanking.testCases.LoginTest01; Naviaget to URL :https://demo.guru99.com/v4/index.php
+INFO  - 2023-02-02 10:45:08.125; com.inetbanking.testCases.LoginTest01;  Get Current Titel: Guru99 Bank Manager HomePage
+INFO  - 2023-02-02 11:47:03.333; com.inetbanking.testCases.BaseTest; Get URL :https://demo.guru99.com/v4/index.php
+INFO  - 2023-02-02 11:47:13.029; com.inetbanking.testCases.LoginTest01;  Get Current Titel: Guru99 Bank Manager HomePage
+INFO  - 2023-02-02 11:47:55.631; com.inetbanking.testCases.BaseTest; Get URL :https://demo.guru99.com/v4/index.php
+INFO  - 2023-02-02 11:47:57.904; com.inetbanking.testCases.LoginTest01;  Get Current Titel: Guru99 Bank Manager HomePage
+INFO  - 2023-02-02 11:48:28.143; com.inetbanking.testCases.BaseTest; Get URL :https://demo.guru99.com/v4/index.php
+INFO  - 2023-02-02 11:48:30.361; com.inetbanking.testCases.LoginTest01;  Get Current Titel: Guru99 Bank Manager HomePage
+INFO  - 2023-02-02 13:11:35.183; com.inetbanking.testCases.BaseTest; Get URL :https://demo.guru99.com/v4/index.php
+INFO  - 2023-02-02 13:11:44.453; com.inetbanking.testCases.LoginTest01;  Get Current Titel: Guru99 Bank Manager HomePage
+INFO  - 2023-02-02 13:14:08.970; com.inetbanking.testCases.BaseTest; Get URL :https://demo.guru99.com/v4/index.php
+INFO  - 2023-02-02 13:14:15.150; com.inetbanking.testCases.LoginTest01;  Get Current Titel: Guru99 Bank Home Page
+INFO  - 2023-02-02 13:17:11.531; com.inetbanking.testCases.BaseTest; Get URL :https://demo.guru99.com/v4/index.php
+INFO  - 2023-02-02 13:17:21.340; com.inetbanking.testCases.LoginTest01;  Get Current Titel: Guru99 Bank Manager HomePage
+INFO  - 2023-02-02 13:49:41.876; com.inetbanking.testCases.BaseTest; Get URL :https://demo.guru99.com/v4/index.php
+INFO  - 2023-02-02 13:49:57.372; com.inetbanking.testCases.LoginTest01;  Get Current Titel: Guru99 Bank Manager HomePage
+INFO  - 2023-02-02 13:52:13.399; com.inetbanking.testCases.BaseTest; Get URL :https://demo.guru99.com/v4/index.php
+INFO  - 2023-02-02 13:52:35.081; com.inetbanking.testCases.LoginTest01;  Get Current Titel: Guru99 Bank Manager HomePage
+INFO  - 2023-02-02 14:15:03.878; com.inetbanking.testCases.BaseTest; Get URL :https://demo.guru99.com/v4/index.php
+INFO  - 2023-02-02 14:15:14.102; com.inetbanking.testCases.LoginTest01;  Get Current Titel: Guru99 Bank Manager HomePage
+INFO  - 2023-02-02 15:42:18.796; com.inetbanking.testCases.BaseTest; Get URL :https://demo.guru99.com/v4/index.php
+INFO  - 2023-02-02 15:42:27.523; com.inetbanking.testCases.LoginTest01;  Get Current Titel: Guru99 Bank Manager HomePage
+INFO  - 2023-02-02 15:46:23.052; com.inetbanking.testCases.BaseTest; Get URL :https://demo.guru99.com/v4/index.php
+INFO  - 2023-02-02 15:46:55.110; com.inetbanking.testCases.LoginTest01;  Get Current Titel: Guru99 Bank Manager HomePage
+INFO  - 2023-02-11 18:58:41.846; com.inetbanking.testCases.BaseTest; Get URL :https://demo.guru99.com/v4/index.php
+INFO  - 2023-02-11 18:58:47.495; com.inetbanking.testCases.LoginTest01;  Get Current Titel: Guru99 Bank Home Page
+INFO  - 2023-02-11 19:02:59.547; com.inetbanking.testCases.BaseTest; Get URL :https://demo.guru99.com/v4/index.php
+INFO  - 2023-02-11 19:03:08.379; com.inetbanking.testCases.LoginTest01;  Get Current Titel: Guru99 Bank Home Page
+INFO  - 2023-02-11 19:35:20.795; com.inetbanking.testCases.BaseTest; Get URL :https://demo.guru99.com/v4/index.php
+INFO  - 2023-02-11 19:35:28.730; com.inetbanking.testCases.LoginTest01;  Get Current Titel: Guru99 Bank Manager HomePage
+INFO  - 2023-02-11 19:36:10.306; com.inetbanking.testCases.BaseTest; Get URL :https://demo.guru99.com/v4/index.php
+INFO  - 2023-02-11 19:36:25.513; com.inetbanking.testCases.LoginTest01;  Get Current Titel: Guru99 Bank Manager HomePage
+INFO  - 2023-02-11 20:10:39.457; com.inetbanking.testCases.BaseTest; Get URL :https://demo.guru99.com/v4/index.php
+INFO  - 2023-02-11 20:10:46.889; com.inetbanking.testCases.LoginTest01;  Get Current Titel: Guru99 Bank Manager HomePage
+INFO  - 2023-02-11 21:14:23.392; com.inetbanking.testCases.BaseTest; Get URL :https://demo.guru99.com/v4/index.php
+INFO  - 2023-02-11 21:14:32.718; com.inetbanking.testCases.LoginTest01;  Get Current Titel: Guru99 Bank Manager HomePage
